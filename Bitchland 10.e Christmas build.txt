@@ -43,6 +43,8 @@ Github Releases Links:
 
 BepInEx:
 
+https://github.com/wolfitdm/BitchlandUnlimitedLockerStorageBepInEx/releases/tag/v1.0.0
+https://github.com/wolfitdm/BitchlandAllNPCsAreAlwaysFuckableBepInEx/releases/tag/v1.0.0
 https://github.com/wolfitdm/BitchlandUnlimitedBackpackStorageBepInEx/releases/tag/v1.0.0
 https://github.com/wolfitdm/BitchlandUnstuckMeBepInEx/releases/tag/v2.0.0
 https://github.com/wolfitdm/BitchlandPickupItemsFromVendingMachinesAndTrashPilesBepInEx/releases/tag/v1.0.0
@@ -63,23 +65,19 @@ https://github.com/wolfitdm/bl_GiveMeMuchMoneyMod/releases/tag/v1.0.0
 Original Ingame Mods By BreakFast5:
 https://github.com/wolfitdm/BitchlandOriginalIngameMods/releases/tag/v1.0.0
 
-@BreakFast5
-But I have one request, also for future plugins and mods.
+Updated: 21.12.2025 18:43
 
-* Please continue as you have been and avoid the private keyword. In C#, please continue to use public static for everything.
+Changelog What Is New ?
 
-public void, public bool...and so on...
+* bl_UnstuckMeMod updated
+* BitchlandUnstuckMeBepInEx updated
+* Add new mod BitchlandAllNPCsAreAlwaysFuckableBepInEx -> https://github.com/wolfitdm/BitchlandAllNPCsAreAlwaysFuckableBepInEx/releases/tag/v1.0.0
+* Add new mod BitchlandUnlimitedLockerStorageBepInEx   -> https://github.com/wolfitdm/BitchlandUnlimitedLockerStorageBepInEx/releases/tag/v1.0.0
+* Link updated https://www.mediafire.com/folder/0zizhhpzl1j4h/BitchLand_Mods
+* Link updated https://www.mediafire.com/file_premium/fx34ym076ayuske/BitchLandMods.zip/file
+* Link updated https://drive.google.com/drive/folders/1LwFVz871vgjNq_NuS_9Ei30KPeHUkXlo?usp=drive_link
+* Link Updated https://drive.google.com/file/d/1kWhCusx_PfZHZw8f-zeluO9BC412A_rg/view?usp=drive_link
 
-* Please leave all method names and their parameters as they are. You are welcome to change the content, but please do not rename methods and variables.
+* Uploaded new build:
 
-Why? This ensures that all mods and plugins are compatible with every version.
-
-Compatibility is very important.
-
-And please allow more than 5 mods. That's all.
-
-Very good game, unfortunately with many bugs.
-
-In BepiInEx, you have a live console, so you can see when something crashes.
-
-* One bug: if you click "exit to main menu" and then load a new save game, you won't find all the assets and prefabs. This results in many error messages in the log.
+https://www.mediafire.com/file_premium/pzcfehitcwykvkw/BitchLand_build10e_preinstalledmods_christmas_build_all_done_really_21_12_2025_18-40pm.zip/file
