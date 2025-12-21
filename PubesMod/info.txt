@@ -1,0 +1,3 @@
+Title:NPC Pubes
+Description:New game options to spawn pubes on NPC's
+Enabled:True
