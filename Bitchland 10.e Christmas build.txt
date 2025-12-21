@@ -1,0 +1,85 @@
+Bitchland 10.e Christmas build WITH ALL MODS REALLY LATEST BUILD 21.12.2025
+
+BitchLand_build10e_preinstalledmods_christmas_build_all_done.zip
+
+https://www.mediafire.com/file_premium/o0zmnrzm63tmuqb/BitchLand_build10e_preinstalledmods_christmas_build_all_done.zip/file
+https://mega.nz/file/W85EmJBI#SLeIlpTQ0IGov8uAbp3mhezP5AN1G8LKqRmlgBk3l2w
+https://1fichier.com/?uyfef5nllzcjqa542wli
+https://drive.google.com/file/d/1fDjl7rDoJ4-Vxibm72oT4KoLuHLvPIVZ/view?usp=drive_link
+https://pixeldrain.com/u/i6hc4ZmE
+
+BitchLand_AllMods folder version
+https://www.mediafire.com/folder/0zizhhpzl1j4h/BitchLand_Mods
+https://mega.nz/folder/zxJhgL6B#yJJJHAjQgWR7liaIIx4s-w
+https://drive.google.com/drive/folders/1LwFVz871vgjNq_NuS_9Ei30KPeHUkXlo?usp=drive_link
+
+BitchLand_AllMods folder Zip Version:
+​​All_BitchLand_Mods_BepInEx_And_Ingame.zip
+https://www.mediafire.com/file_premium/fx34ym076ayuske/BitchLandMods.zip/file
+https://mega.nz/file/rtJxzQQa#u1008j8tYukGgWV5VSRyGOWYyCSatovVe6K3xdBXSRk
+https://drive.google.com/file/d/1kWhCusx_PfZHZw8f-zeluO9BC412A_rg/view?usp=drive_link
+https://1fichier.com/?20el6y2q3jn9gl2a46vr
+https://pixeldrain.com/u/tdDvRza7
+
+Changelog 
+
+What Is New?
+BitchlandUnlimitedBackpackStorageBepInEx:
+Override even more methods to ensure the backpack always has unlimited storage
+remove Old files (jpg/png)
+create a folder in BepInEx\oldplugins   
+Please place the plugins you wish to disable in this folder.
+The same applies to Assets\OldMods.
+@BreakFast5
+When you wrote yesterday, I got really scared. I don't like getting yelled at. I really don't want any trouble. I'm going to support you financially. I already have; I got MediaFire Pro to upload everything here. And I'm going to be quiet now. I don't want to spam here.
+
+Detailed Description:
+
+Get unprecedented access to BitchLand with my mods.
+
+My OpenAll BepInEx mod lets you enter the lab, part of Sarah Quest. This way, you can continue the story right now. See what's happening in BitchLand's lab and what awaits you in the tunnels and underground. New technological advancements will be revealed in the tunnels. With the OpenAll BepInEx mod, you can use every train, truck, tank, locked sex machine, and anything else you've never seen before. My Unstuck mod will keep you moving. Just press Y and you're free to move. My PickupTrashPilesAndVendingMachines mod lets you pick up items from vending machines and trash piles flawlessly, even with a controller. No need to wait for a newer version. Experience everything and the most amazing moments of BitchLand right now. With my GiveMeTheGoodStuff2 mod, you can maximize all your relationships with a disable/enable option in the settings/mods menu, and there's so much more to experience with my other mods. This is just a small fraction of what I'm going to tell you about. Let yourself be enchanted by unimaginable content you've never seen before: You can enter the sewers right from the start. What am I saying? You can experience anything! With my CompleteAllQuests mod, you can mark a quest as completed in the worst-case scenario, and much, much more...
+
+Github Releases Links:
+
+BepInEx:
+
+https://github.com/wolfitdm/BitchlandUnlimitedBackpackStorageBepInEx/releases/tag/v1.0.0
+https://github.com/wolfitdm/BitchlandUnstuckMeBepInEx/releases/tag/v2.0.0
+https://github.com/wolfitdm/BitchlandPickupItemsFromVendingMachinesAndTrashPilesBepInEx/releases/tag/v1.0.0
+https://github.com/wolfitdm/BitchlandOpenAllBepInEx/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_GiveMeMuchMoneyBepInEx/releases/tag/v1.0.0
+
+Ingame:
+
+https://github.com/wolfitdm/bl_UnstuckMeMod/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_GiveMeTheGoodStuffMod/releases/tag/v2.0.0
+https://github.com/wolfitdm/bl_GiveMeTheGoodStuffMod/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_NoPregnancyMod/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_InfiniteHealthMod/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_AllStatsToMax/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_CompleteAllQuestsMod/releases/tag/v1.0.0
+https://github.com/wolfitdm/bl_GiveMeMuchMoneyMod/releases/tag/v1.0.0
+
+Original Ingame Mods By BreakFast5:
+https://github.com/wolfitdm/BitchlandOriginalIngameMods/releases/tag/v1.0.0
+
+@BreakFast5
+But I have one request, also for future plugins and mods.
+
+* Please continue as you have been and avoid the private keyword. In C#, please continue to use public static for everything.
+
+public void, public bool...and so on...
+
+* Please leave all method names and their parameters as they are. You are welcome to change the content, but please do not rename methods and variables.
+
+Why? This ensures that all mods and plugins are compatible with every version.
+
+Compatibility is very important.
+
+And please allow more than 5 mods. That's all.
+
+Very good game, unfortunately with many bugs.
+
+In BepiInEx, you have a live console, so you can see when something crashes.
+
+* One bug: if you click "exit to main menu" and then load a new save game, you won't find all the assets and prefabs. This results in many error messages in the log.
